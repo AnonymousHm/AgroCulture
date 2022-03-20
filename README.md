@@ -2,7 +2,7 @@
 <h4>An Open Source Project "AgroCulture"</h4>
 
 <h2>Installation</h2>
-<p>Install [Xampp Latest version](https://www.apachefriends.org/download.html)
+<p>Install (Xampp Latest version)[https://www.apachefriends.org/download.html]
 After Succesfully installing, Extract this folder in "C:/user/xampp/htdocs"
 Now Open the Xampp Control panel start all the services and servers
 Type [this](https://localhost/phpmyadmin) on your browser</p>
